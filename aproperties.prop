@@ -1,0 +1,10 @@
+# General configuration file
+#
+# Naming Convention:
+# For distinguish from System Properties.
+#     <domain>.<attribute>.<identity>
+#  ex) me.ro.app.version=0.0.1
+
+# General Configurations
+# ==========================================================
+me.ro.app.version=0.0.1

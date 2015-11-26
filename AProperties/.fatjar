@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 26 14:43:36 KST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=AProperties.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|android-support-v4.jar>;<jar|annotations.jar>
+includes=
